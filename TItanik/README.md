@@ -1,5 +1,5 @@
 # Titanik<h1>
-eefwefef
+eef
   efwef
   * Используемый стек: Feature Rngineering, Numpy, pandas, sklearn, seaborn, gridsearch, ensemble models (Random Forest).
   * суть проекта: какую задачу вы решали, с какими исходными данными работали;

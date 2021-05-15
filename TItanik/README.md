@@ -1,8 +1,8 @@
 # Titanik<h1>
 Kaggle competitions 
-  * Используемый стек: 
-    * Feature Rngineering;
+  * Tech stack: 
+    * Feature Engineering;
     * Numpy, pandas, sklearn, seaborn, gridsearch, ensemble models (Random Forest).
-  * Результат: Топ 11%
+  * Result: Top 11%
 
 
